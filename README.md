@@ -9,6 +9,7 @@
 https://101.33.245.103/
 
 🐧群：690060988
+<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=3onc1R5mrJ-cCxyg5CRBmVoF-z0GAIZM&jump_from=webapi&authKey=GxlpydqacHlMOzXXNgnPFIanRygoo4HQ3OR1r49wi4/NCBaXaJ1nUviZtJiHY/GM"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="PVE游戏玩家俱乐部" title="PVE游戏玩家俱乐部"></a>
 
 
 
