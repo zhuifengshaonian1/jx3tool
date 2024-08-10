@@ -9,12 +9,7 @@
 https://101.33.245.103/
 
 🐧群：690060988
-<div @click="joinQQGroup">添加群聊</div>
-<script>
-    function joinQQGroup() {
-        window.open("[在此处粘贴你复制的加群链接的href](https://qm.qq.com/cgi-bin/qm/qr?k=czWG5sgI5J1Umjy_-rdaa_ca8v-Ksgga&jump_from=webapi&authKey=oxvCnsCGG3wMtYUNtpEgx8arhOX0A5tpOIdl9oiC+8uPdyvvI4eMwee8ruj35NOE")", "_blank");
-    }
-</script>
+<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=wuDcWU-dn4DgCuPeqoKr55-Pu_v2B6PI&jump_from=webapi&authKey=cxMjrOv0ammGxlqQy21YLNe4iYd/NJMAoEBshz9HPicYrW8YD8p5geDnZ6CvWr+N"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="690060988" title="PVE游戏玩家俱乐部"></a>
 
 
 
