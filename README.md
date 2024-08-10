@@ -9,7 +9,12 @@
 https://101.33.245.103/
 
 🐧群：690060988
-<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=3onc1R5mrJ-cCxyg5CRBmVoF-z0GAIZM&jump_from=webapi&authKey=GxlpydqacHlMOzXXNgnPFIanRygoo4HQ3OR1r49wi4/NCBaXaJ1nUviZtJiHY/GM"></a>
+<div @click="joinQQGroup">添加群聊</div>
+<script>
+    function joinQQGroup() {
+        window.open("[在此处粘贴你复制的加群链接的href](https://qm.qq.com/cgi-bin/qm/qr?k=czWG5sgI5J1Umjy_-rdaa_ca8v-Ksgga&jump_from=webapi&authKey=oxvCnsCGG3wMtYUNtpEgx8arhOX0A5tpOIdl9oiC+8uPdyvvI4eMwee8ruj35NOE")", "_blank");
+    }
+</script>
 
 
 
